@@ -61,5 +61,5 @@ systemctl enable udp-custom &>/dev/null
 #reboot
 clear
 echo -e ""
-read -p "Enter To Menu"
+read -p "UDP VIP BY SABDO PALON SUKSES INSTAL. Enter To Menu"
 menu
